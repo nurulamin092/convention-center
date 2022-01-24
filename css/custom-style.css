@@ -4,10 +4,19 @@
         font-family: 'Poppins', sans-serif;
     }
     .convention-btn-info{
+        border: #FFFFFF;
         width: 230px;
         height: 44px;
         font-weight: 700;
-        background-color: #FFFFFF;
+        background-color:whitesmoke;
         color: #3F87F5;
         border-radius: 10px;
+    }
+    .wadding-plus{
+        width: 292px;
+        height: 400px;
+        color: #FFFFFF;
+        background: #3F87F5;
+        box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+        border-radius: 26px;
     }
